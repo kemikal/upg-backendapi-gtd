@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5584AC90-2B4E-4D04-9FDA-3A9410BA38E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="gtd/Models/TodoItem.cs">
+    <Files>
+      <File FileName="gtd/Models/TodoItem.cs" Line="9" Column="2" />
+      <File FileName="gtd/Models/TodoContext.cs" />
+      <File FileName="gtd/Controllers/TodoItemsController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gtd" expanded="True">
+            <Node name="gtd" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="TodoItem.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.gtd PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
